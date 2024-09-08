@@ -9,6 +9,15 @@
 # Screenshots
 
 <div align="center">
-<img src="img.png" width="300" height="200">
-<img src="img_1.png" width="300" height="200">
+<img src="img_3.png" width="1080" height="2400">
+<img src="img_2.png" width="1080" height="2400">
 </div>
+
+
+![img_8.png](img_8.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+
+
