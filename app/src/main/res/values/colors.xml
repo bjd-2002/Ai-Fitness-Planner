@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#800303</color>
+    <color name="pale_blue">#C1CAFF</color>
+    <color name="splash_screen_bg">#6A29C8</color>
+    <color name="muscle_card_bg">#DAD8F2</color>
+    <color name="muscle_card_bg_top">#E2E0F7</color>
+    <color name="muscle_card_bg_bottom">#DAD8F2</color>
+    <color name="muscle_card_text_color">#333333</color>
+    <color name="muscle_card_bg_darker">#B0ADD9</color> <!-- A darker version for the gradient -->
+    <color name="muscle_text_color">#333333</color> <!-- Custom text color for contrast -->
+    <color name="muscle_card_border_color">#AE9ADC</color> <!-- Custom text color for contrast -->
+    <color name="muscle_screen_background_start">#FFFFFF</color> <!-- Light blue -->
+    <color name="muscle_screen_background_end">#D2D2DE</color> <!-- Slightly darker blue -->
+
+
+</resources>
