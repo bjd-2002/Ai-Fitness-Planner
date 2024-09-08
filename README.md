@@ -8,16 +8,28 @@
 
 # Screenshots
 
-<div align="center">
-<img src="img_3.png" width="216" height="480">
-<img src="img_2.png" width="216" height="480">
+<div style="display: flex; gap: 100px; justify-content: center;">
+  <img src="img_3.png" alt="Image 3" width="216" height="480">
+  <img src="img_2.png" alt="Image 2" width="216" height="480">
+  <img src="img_3.png" alt="Image 8" width="216" height="480">
+</div>
+<br> <br>
+<div style="display: flex; gap: 100px; justify-content: center;">
+  <img src="img_2.png" alt="Image 4" width="216" height="480">
+    img src="img_3.png" alt="Image 5" width="216" height="480">
+  <img src="img_2.png" alt="Image 6" width="216" height="480">
+</div>
+
+<br> <br>
+
+<div style="display: flex; gap: 100px; justify-content: center;">
+  <img src="img_3.png" alt="Image 7" width="216" height="480">
+  <img src="img_2.png" alt="Image 3" width="216" height="480">
 </div>
 
 
-![img_8.png](img_8.png)
-![img_4.png](img_4.png)
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
-![img_7.png](img_7.png)
+
+
+
 
 
