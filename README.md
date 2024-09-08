@@ -5,3 +5,6 @@
 * Jetpack Compose
 * Gemini AI
 * NavHost
+
+# Screenshots
+![img.png](img.png)
