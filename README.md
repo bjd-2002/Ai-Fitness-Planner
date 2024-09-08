@@ -9,8 +9,8 @@
 # Screenshots
 
 <div align="center">
-<img src="img_3.png" width="1080" height="2400">
-<img src="img_2.png" width="1080" height="2400">
+<img src="img_3.png" width="216" height="480">
+<img src="img_2.png" width="216" height="480">
 </div>
 
 
