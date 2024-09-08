@@ -7,4 +7,8 @@
 * NavHost
 
 # Screenshots
-![img.png](img.png)  ![img_1.png](img_1.png)
+
+<div align="center">
+<img src="img.png" width="300" height="200">
+<img src="img_1.png" width="300" height="200">
+</div>
